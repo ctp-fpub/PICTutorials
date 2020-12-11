@@ -55,7 +55,7 @@ There are two PIC simulation programs installed on the server: EPOCH and smilei.
 
 There are 2 ways of viewing the results of an EPOCH simulation availabe on the server: the VisIt version and the Julia version.
 
-#### The VisIt version
+#### [The VisIt version](VisIt.md)
 First, you have to install the VisIt client on you local machine. Download it from https://wci.llnl.gov/simulation/computer-codes/visit/executables. You will need v3.1.2 or newer.
 
 #### The Julia version
