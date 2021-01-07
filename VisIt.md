@@ -38,7 +38,7 @@ Now press `Apply` from the bottom-left of the window and `Dismiss` from the bott
   <img src="VisIt_Files/4.png" width="400px"/>
 </p>
 
-2. From `Plots`, click `Add -> Pseudocode -> Derrived -> Number density -> Number density -> Electrons`, and then click `Draw`.
+2. From `Plots`, click `Add -> Pseudocolor -> Derrived -> Number density -> Number density -> Electrons`, and then click `Draw`.
 
 <p align="center">
   <img src="VisIt_Files/5.png" width="400px"/>
